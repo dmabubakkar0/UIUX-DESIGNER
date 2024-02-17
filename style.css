@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+
+    padding: 0;
+    margin: 0;
+    font-family: Inter;
+}
+/* Alwyes excit */
+.conatiner {
+    max-width: 1260px;
+    margin: auto;
+    padding: 0px 30px;
+  
+}
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 16px;
+    font-family: Inter , meadium;
+    font-weight: 300;
+    padding: 9px 20px;
+    background-color:  #5463FF;
+    text-align: center;
+
+  }
+
+
+
+
+
+
+
+/* Alwyes end */
+
+/* header_ Navbar_strat */
+.hedar {
+
+    background-color: #ffffff;
+    box-shadow:box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; ;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.logo_img_and_text  {
+padding-top: 39px;
+color: #5463FF;
+padding-right: 0px;
+
+
+}
+.logo_img_and_text h3 { 
+    font-size: 16px;
+font-family: inter , bold;
+
+}
+.navbar .meubar {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 40px;
+    
+}
+.navbar .meubar p {
+   font-size: 16px;
+   font-family: Inter , reguler;
+   color: #000000;
+}
+.navbar .meubar .home {
+font-size: 16px;
+font-family: Inter , reguler;
+color: #5463FF;
+
+}
+.btn a {
+
+
+    color: #FFF;
+}
+
+/* header_ Navbar_end */
+
+/* Hero section Strar  */
+.hero {
+
+    padding-top: 20px;
+}
+
+.content {
+    display: flex;
+justify-content: space-between;
+ 
+ 
+}
+ 
+ 
+.content .sup_heading {
+font-size: 24px;
+font-family: Inter , light;
+line-height: 38.4%;
+color: #4E4E4E;
+
+}
+.content .sup_main {
+font-size: 72px;
+font-family: poppins , Bold;
+line-height: 86.3%;
+color: #5463FF;
+
+
+}
+.hero_text {
+    /* padding-left: 95px; */
+}
+.hero_text p {
+    font-size: 18px;
+    font-family: Inter , meadium;
+    line-height: 90.6%;
+    color: #4E4E4E;
+    padding-top: 24px;
+}
+
+.hero_text .btn {
+    display: inline-block;
+ position: absolute;
+  bottom: 100px;
+
+}
+.hero_text .btn  a{
+  
+ text-decoration: none;
+
+}
+
+.upoth_main {
+    display: flex;
+    justify-content: stretch;
+    padding-top: 90px;
+    gap: 55px;
+
+}
+
+
+/* Hero section end  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 600px) and (max-width: 1024px) {
+    /* Styles for tablets */
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    /* Styles for mobile devices */
+}
+
+
+
+
+
+
